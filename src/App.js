@@ -18,8 +18,8 @@ function App() {
   return (
 
     <div className="App">
-      
-        {"nom":"555"}
+
+       <code>{"nom":"555"}</code>
 
 
 
