@@ -16,6 +16,7 @@ function App() {
     }
 
   return (
+
     <div className="App">
         <select>
             <option>Пункт 1</option>
@@ -24,6 +25,11 @@ function App() {
         </select>
 
         <button onClick={onClose}>Закрыть2</button>
+
+        <div data-kinopoisk="300" id="kinobd"></div>
+        <script src="https://kinobd.ru/js/player_.js"></script>
+
+        
     </div>
   );
 }
