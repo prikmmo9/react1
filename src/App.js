@@ -21,13 +21,12 @@ function App() {
         <select>
             <option>Пункт 1</option>
             <option>Пункт 2</option>
-          
+
         </select>
 
         <button onClick={onClose}>Закрыть2</button>
 
-        <div data-kinopoisk="300" id="kinobd"></div>
-        <script src="https://kinobd.ru/js/player_.js"></script>
+       <p>123</p>
 
 
     </div>
