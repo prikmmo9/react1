@@ -18,14 +18,8 @@ function App() {
   return (
 
     <div className="App">
-        <select>
-            <option>Пункт 66</option>
-            <option>Пункт 2</option>
-
-        </select>
-
-        <button onClick={onClose}>Закрыть2</button>
-
+      
+        {"nom":"555"}
 
 
 
