@@ -19,14 +19,14 @@ function App() {
 
     <div className="App">
         <select>
-            <option>Пункт 0</option>
+            <option>Пункт 66</option>
             <option>Пункт 2</option>
 
         </select>
 
         <button onClick={onClose}>Закрыть2</button>
 
-       
+        <img src="https://kartinkin.net/pics/uploads/posts/2022-07/1657199254_20-kartinkin-net-p-kanarskie-dogi-iz-grafstva-art-krasivo-20.jpg" alt="альтернативный текст">
 
 
     </div>
