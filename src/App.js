@@ -22,7 +22,7 @@ function App() {
             <option>Пункт 2</option>
         </select>
 
-        <button onClick={onClose}>Закрыть</button>
+        <button onClick={onClose}>Закрыть2</button>
     </div>
   );
 }
