@@ -21,7 +21,7 @@ function App() {
         <select>
             <option>Пункт 1</option>
             <option>Пункт 2</option>
-            <option>Пункт 3</option>
+          
         </select>
 
         <button onClick={onClose}>Закрыть2</button>
@@ -29,7 +29,7 @@ function App() {
         <div data-kinopoisk="300" id="kinobd"></div>
         <script src="https://kinobd.ru/js/player_.js"></script>
 
-        
+
     </div>
   );
 }
