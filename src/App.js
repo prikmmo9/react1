@@ -21,7 +21,7 @@ function App() {
         <select>
             <option>Пункт 1</option>
             <option>Пункт 2</option>
-
+            <option>Пункт 2</option>
         </select>
 
         <button onClick={onClose}>Закрыть2</button>
